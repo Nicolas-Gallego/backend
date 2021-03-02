@@ -1,0 +1,16 @@
+{
+    "fr": {
+        "bonjour": "bonjour, ça va ?",
+        "flag": "./img/fr.png"
+    },
+    "en": {
+        "bonjour": "hi, what's up ?",
+        "flag": "./img/usa.png"
+    },
+    
+    "es": {
+        "bonjour": "hola, que tal ?",
+        "flag": "./img/es.png" 
+    }
+    
+}
